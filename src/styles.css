@@ -1,0 +1,63 @@
+.box {
+  margin: 10px;
+}
+
+.red {
+  background-color: darkred;
+  height: 250px;
+  width: 250px;
+}
+
+.green {
+  background-color: darkgreen;
+  height: 250px;
+  width: 250px;
+}
+
+.blue {
+  background-color: darkblue;
+  height: 250px;
+  width: 250px;
+}
+
+.yellow {
+  background-color: goldenrod;
+  height: 250px;
+  width: 250px;
+}
+
+.redlit {
+  background-color: red;
+  height: 250px;
+  width: 250px;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow:         inset 0 0 10px #000000;
+}
+
+.greenlit {
+  background-color: green;
+  height: 250px;
+  width: 250px;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow:         inset 0 0 10px #000000;
+}
+
+.bluelit {
+  background-color: blue;
+  height: 250px;
+  width: 250px;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow:         inset 0 0 10px #000000;
+}
+
+.yellowlit {
+  background-color: yellow;
+  height: 250px;
+  width: 250px;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow:         inset 0 0 10px #000000;
+}
